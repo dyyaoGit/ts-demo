@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+        
+    },
+    "include": ["./main.ts","src/**/*", "typing/*"],
+    "exclude": ["node_modules","**/*.spec.ts"]  
+}
